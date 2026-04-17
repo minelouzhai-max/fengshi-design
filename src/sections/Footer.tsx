@@ -42,12 +42,6 @@ export default function Footer() {
                 alt="枫石空间"
                 className="w-48 h-auto mb-3"
               />
-                <img
-                  src="/images/logo-horizontal-white.png"
-                  alt="枫石空间"
-                  className="w-full h-auto"
-                />
-              </div>
             </a>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
               我们打造尊重时间流逝之美的空间，在简约中寻找完美，在材质中拥抱自然。让设计回归本真，创造永恒的居住体验。
