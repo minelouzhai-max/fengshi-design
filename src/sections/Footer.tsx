@@ -40,7 +40,7 @@ export default function Footer() {
               <img
                 src="/images/logo-horizontal-white.png"
                 alt="枫石空间"
-                className="h-24 w-auto mb-6"
+                className="h-40 w-auto mb-6"
               />
             </a>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
