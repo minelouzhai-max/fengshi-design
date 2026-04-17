@@ -37,7 +37,11 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <a href="#hero" onClick={(e) => { e.preventDefault(); scrollToSection('#hero'); }}>
-              <div className="w-48 mb-6">
+              <img
+                src="/images/logo-vertical-white.png"
+                alt="枫石空间"
+                className="h-20 w-auto mb-6"
+              />
                 <img
                   src="/images/logo-horizontal-white.png"
                   alt="枫石空间"
